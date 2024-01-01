@@ -1,0 +1,220 @@
+The following records do not have a discoverer in the eighth field: 
+
+Earth III Sun 149600000 365.26 0.00 0.02 - -
+Jupiter V Sun 778330000 4332.71 1.31 0.05 - -
+Mars IV Sun 227940000 686.98 1.85 0.09 - -
+Mercury I Sun 57910000 87.97 7.00 0.21 - -
+Moon I Earth 384000 27.32 5.14 0.05 - -
+Saturn VI Sun 1429400000 10759.50 2.49 0.06 - -
+Sun - - - - - - - -
+Venus II Sun 108200000 224.70 3.39 0.01 - -
+
+Print every record omitting the fourth field: 
+
+Adrastea XV Jupiter 0.30 0.00 0.00 Jewitt 1979
+Amalthea V Jupiter 0.50 0.40 0.00 Barnard 1892
+Ananke XII Jupiter -631 147.00 0.17 Nicholson 1951
+Ariel I Uranus 2.52 0.00 0.00 Lassell 1851
+Atlas XV Saturn 0.60 0.00 0.00 Terrile 1980
+Belinda XIV Uranus 0.62 0.03 0.00 Voyager2 1986
+Bianca VIII Uranus 0.43 0.16 0.00 Voyager2 1986
+Caliban XVI Uranus -580 140. 0.08 Gladman 1997
+Callirrhoe XVII Jupiter ? ? ? Sheppard 2000
+Callisto IV Jupiter 16.69 0.28 0.01 Galileo 1610
+Calypso XIV Saturn 1.89 0.00 0.00 Pascu 1980
+Carme XI Jupiter -692 163.00 0.21 Nicholson 1938
+Chaldene XXI Jupiter  -733.7 165.2 0.238 Sheppard 2000
+Charon I Pluto 6.39 98.80 0.00 Christy 1978
+Cordelia VI Uranus 0.34 0.14 0.00 Voyager2 1986
+Cressida IX Uranus 0.46 0.04 0.00 Voyager2 1986
+Deimos II Mars 1.26 1.80 0.00 Hall 1877
+Desdemona X Uranus 0.47 0.16 0.00 Voyager2 1986
+Despina V Neptune 0.33 0.00 0.00 Voyager2 1989
+Dione IV Saturn 2.74 0.02 0.00 Cassini 1684
+Earth III Sun 365.26 0.00 0.02 - -
+Elara VII Jupiter 259.65 28.00 0.21 Perrine 1905
+Enceladus II Saturn 1.37 0.02 0.00 Herschel 1789
+Epimetheus XI Saturn 0.69 0.34 0.01 Walker 1980
+Erinome XXV Jupiter 728 164.9 0.266 Sheppard 2000
+Europa II Jupiter 3.55 0.47 0.01 Galileo 1610
+Galatea VI Neptune 0.43 0.00 0.00 Voyager2 1989
+Ganymede III Jupiter 7.15 0.19 0.00 Galileo 1610
+Harpalyke XXII Jupiter 623.3 148.6 0.226 Sheppard 2000
+Helene XII Saturn 2.74 0.20 0.01 Laques 1980
+Himalia VI Jupiter 250.57 28.00 0.16 Perrine 1904
+Hyperion VII Saturn 21.28 0.43 0.10 Bond 1848
+Iapetus VIII Saturn 79.33 14.72 0.03 Cassini 1671
+Io I Jupiter 1.77 0.04 0.00 Galileo 1610
+Iocaste XXIV Jupiter ? ? ? Sheppard 2000
+Isonoe XXVI Jupiter ? ? ? Sheppard 2000
+Janus X Saturn 0.69 0.14 0.01 Dollfus 1966
+Juliet XI Uranus 0.49 0.06 0.00 Voyager2 1986
+Jupiter V Sun 4332.71 1.31 0.05 - -
+Kalyke XXIII Jupiter ? ? ? Sheppard 2000
+Larissa VII Neptune 0.55 0.00 0.00 Reitsema 1989
+Leda XIII Jupiter 238.72 27.00 0.15 Kowal 1974
+Lysithea X Jupiter 259.22 29.00 0.11 Nicholson 1938
+Mars IV Sun 686.98 1.85 0.09 - -
+Megaclite XIX Jupiter ? ? ? Sheppard 2000
+Mercury I Sun 87.97 7.00 0.21 - -
+Metis XVI Jupiter 0.29 0.00 0.00 Synnott 1979
+Mimas I Saturn 0.94 1.53 0.02 Herschel 1789
+Miranda V Uranus 1.41 4.22 0.00 Kuiper 1948
+Moon I Earth 27.32 5.14 0.05 - -
+Naiad III Neptune 0.29 0.00 0.00 Voyager2 1989
+Neptune VIII Sun 60190.00 1.77 0.01 Adams 1846
+Nereid II Neptune 360.13 29.00 0.75 Kuiper 1949
+Oberon IV Uranus 13.46 0.00 0.00 Herschel 1787
+Ophelia VII Uranus 0.38 0.09 0.00 Voyager2 1986
+Pan XVIII Saturn 0.58 0.00 0.00 Showalter 1990
+Pandora XVII Saturn 0.63 0.00 0.00 Collins 1980
+Pasiphae VIII Jupiter -735 147.00 0.38 Melotte 1908
+Phobos I Mars 0.32 1.00 0.02 Hall 1877
+Phoebe IX Saturn -550.48 175.30 0.16 Pickering 1898
+Pluto IX Sun 90550 17.15 0.25 Tombaugh 1930
+Portia XII Uranus 0.51 0.09 0.00 Voyager2 1986
+Praxidike XXVII Jupiter ? ? ? Sheppard 2000
+Prometheus XVI Saturn 0.61 0.00 0.00 Collins 1980
+Prospero XVIII Uranus -2019 152. 0.44 Holman 1999
+Proteus VIII Neptune 1.12 0.00 0.00 Voyager2 1989
+Puck XV Uranus 0.76 0.31 0.00 Voyager2 1985
+Rhea V Saturn 4.52 0.35 0.00 Cassini 1672
+Rosalind XIII Uranus 0.56 0.28 0.00 Voyager2 1986
+Saturn VI Sun 10759.50 2.49 0.06 - -
+Setebos XIX Uranus -2239 158. 0.57 Kavelaars 1999
+Sinope IX Jupiter -758 153.00 0.28 Nicholson 1914
+Stephano XX Uranus -674 143. 0.24 Gladman 1999
+Sun - - - - - - -
+Sycorax XVII Uranus -1289 153. 0.51 Nicholson 1997
+Taygete XX Jupiter ? ? ? Sheppard 2000
+Telesto XIII Saturn 1.89 0.00 0.00 Smith 1980
+Tethys III Saturn 1.89 1.09 0.00 Cassini 1684
+Thalassa IV Neptune 0.31 4.50 0.00 Voyager2 1989
+Thebe XIV Jupiter 0.67 0.80 0.02 Synnott 1979
+Themisto XVIII Jupiter ? ? ? Sheppard 2000
+Titan VI Saturn 15.95 0.33 0.03 Huygens 1655
+Titania III Uranus 8.71 0.00 0.00 Herschel 1787
+Trinculo XXI Uranus -759 167.0 0.208 Gladman 2001
+Triton I Neptune -5.88 157.00 0.00 Lassell 1846
+Umbriel II Uranus 4.14 0.00 0.00 Lassell 1851
+Uranus VII Sun 30685.00 0.77 0.05 Herschel 1781
+Venus II Sun 224.70 3.39 0.01 - -
+
+Print the records for satellites that have negative orbital periods: 
+
+Ananke XII Jupiter 21200000 -631 147.00 0.17 Nicholson 1951
+Caliban XVI Uranus 7169000 -580 140. 0.08 Gladman 1997
+Carme XI Jupiter 22600000 -692 163.00 0.21 Nicholson 1938
+Pasiphae VIII Jupiter 23500000 -735 147.00 0.38 Melotte 1908
+Phoebe IX Saturn 12952000 -550.48 175.30 0.16 Pickering 1898
+Prospero XVIII Uranus 16568000 -2019 152. 0.44 Holman 1999
+Setebos XIX Uranus 17681000 -2239 158. 0.57 Kavelaars 1999
+Sinope IX Jupiter 23700000 -758 153.00 0.28 Nicholson 1914
+Stephano XX Uranus 7948000 -674 143. 0.24 Gladman 1999
+Sycorax XVII Uranus 12213000 -1289 153. 0.51 Nicholson 1997
+Trinculo XXI Uranus 8578000 -759 167.0 0.208 Gladman 2001
+Triton I Neptune 355000 -5.88 157.00 0.00 Lassell 1846
+
+Print the data for the objects discovered by the Sheppard space probe. 
+
+Callirrhoe XVII Jupiter 24100000 ? ? ? Sheppard 2000
+Erinome XXV Jupiter 23279000 728 164.9 0.266 Sheppard 2000
+Harpalyke XXII Jupiter 21132000 623.3 148.6 0.226 Sheppard 2000
+Iocaste XXIV Jupiter 20216000 ? ? ? Sheppard 2000
+Isonoe XXVI Jupiter 23078000 ? ? ? Sheppard 2000
+Kalyke XXIII Jupiter 23745000 ? ? ? Sheppard 2000
+Megaclite XIX Jupiter 23911000 ? ? ? Sheppard 2000
+Praxidike XXVII Jupiter 20964000 ? ? ? Sheppard 2000
+Taygete XX Jupiter 23312000 ? ? ? Sheppard 2000
+Themisto XVIII Jupiter 7507000 ? ? ? Sheppard 2000
+
+Print each record with the orbital period given in seconds rather than days. 
+
+Adrastea XV Jupiter 129000 25920 0.00 0.00 Jewitt 1979
+Amalthea V Jupiter 181000 43200 0.40 0.00 Barnard 1892
+Ananke XII Jupiter 21200000 -54518400 147.00 0.17 Nicholson 1951
+Ariel I Uranus 191000 217728 0.00 0.00 Lassell 1851
+Atlas XV Saturn 138000 51840 0.00 0.00 Terrile 1980
+Belinda XIV Uranus 75000 53568 0.03 0.00 Voyager2 1986
+Bianca VIII Uranus 59000 37152 0.16 0.00 Voyager2 1986
+Caliban XVI Uranus 7169000 -50112000 140. 0.08 Gladman 1997
+Callirrhoe XVII Jupiter 24100000 ? ? ? Sheppard 2000
+Callisto IV Jupiter 1883000 1442016 0.28 0.01 Galileo 1610
+Calypso XIV Saturn 295000 163296 0.00 0.00 Pascu 1980
+Carme XI Jupiter 22600000 -59788800 163.00 0.21 Nicholson 1938
+Charon I Pluto 20000 552096 98.80 0.00 Christy 1978
+Cordelia VI Uranus 50000 29376 0.14 0.00 Voyager2 1986
+Cressida IX Uranus 62000 39744 0.04 0.00 Voyager2 1986
+Deimos II Mars 23000 108864 1.80 0.00 Hall 1877
+Desdemona X Uranus 63000 40608 0.16 0.00 Voyager2 1986
+Despina V Neptune 53000 28512 0.00 0.00 Voyager2 1989
+Dione IV Saturn 377000 236736 0.02 0.00 Cassini 1684
+Earth III Sun 149600000 31558464 0.00 0.02 - -
+Elara VII Jupiter 11737000 22433760 28.00 0.21 Perrine 1905
+Enceladus II Saturn 238000 118368 0.02 0.00 Herschel 1789
+Epimetheus XI Saturn 151000 59616 0.34 0.01 Walker 1980
+Erinome XXV Jupiter 23279000 62899200 164.9 0.266 Sheppard 2000
+Europa II Jupiter 671000 306720 0.47 0.01 Galileo 1610
+Galatea VI Neptune 62000 37152 0.00 0.00 Voyager2 1989
+Ganymede III Jupiter 1070000 617760 0.19 0.00 Galileo 1610
+Harpalyke XXII Jupiter 21132000 53853120 148.6 0.226 Sheppard 2000
+Helene XII Saturn 377000 236736 0.20 0.01 Laques 1980
+Himalia VI Jupiter 11480000 21649248 28.00 0.16 Perrine 1904
+Hyperion VII Saturn 1481000 1838592 0.43 0.10 Bond 1848
+Iapetus VIII Saturn 3561000 6854112 14.72 0.03 Cassini 1671
+Io I Jupiter 422000 152928 0.04 0.00 Galileo 1610
+Iocaste XXIV Jupiter 20216000 ? ? ? Sheppard 2000
+Isonoe XXVI Jupiter 23078000 ? ? ? Sheppard 2000
+Janus X Saturn 151000 59616 0.14 0.01 Dollfus 1966
+Juliet XI Uranus 64000 42336 0.06 0.00 Voyager2 1986
+Jupiter V Sun 778330000 374346144 1.31 0.05 - -
+Kalyke XXIII Jupiter 23745000 ? ? ? Sheppard 2000
+Larissa VII Neptune 74000 47520 0.00 0.00 Reitsema 1989
+Leda XIII Jupiter 11094000 20625408 27.00 0.15 Kowal 1974
+Lysithea X Jupiter 11720000 22396608 29.00 0.11 Nicholson 1938
+Mars IV Sun 227940000 59355072 1.85 0.09 - -
+Megaclite XIX Jupiter 23911000 ? ? ? Sheppard 2000
+Mercury I Sun 57910000 7600608 7.00 0.21 - -
+Metis XVI Jupiter 128000 25056 0.00 0.00 Synnott 1979
+Mimas I Saturn 186000 81216 1.53 0.02 Herschel 1789
+Miranda V Uranus 130000 121824 4.22 0.00 Kuiper 1948
+Moon I Earth 384000 2360448 5.14 0.05 - -
+Naiad III Neptune 48000 25056 0.00 0.00 Voyager2 1989
+Neptune VIII Sun 4504300000 5200416000 1.77 0.01 Adams 1846
+Nereid II Neptune 5513000 31115232 29.00 0.75 Kuiper 1949
+Oberon IV Uranus 583000 1162944 0.00 0.00 Herschel 1787
+Ophelia VII Uranus 54000 32832 0.09 0.00 Voyager2 1986
+Pan XVIII Saturn 134000 50112 0.00 0.00 Showalter 1990
+Pandora XVII Saturn 142000 54432 0.00 0.00 Collins 1980
+Pasiphae VIII Jupiter 23500000 -63504000 147.00 0.38 Melotte 1908
+Phobos I Mars 9000 27648 1.00 0.02 Hall 1877
+Phoebe IX Saturn 12952000 -47561472 175.30 0.16 Pickering 1898
+Pluto IX Sun 5913520000 7823520000 17.15 0.25 Tombaugh 1930
+Portia XII Uranus 66000 44064 0.09 0.00 Voyager2 1986
+Praxidike XXVII Jupiter 20964000 ? ? ? Sheppard 2000
+Prometheus XVI Saturn 139000 52704 0.00 0.00 Collins 1980
+Prospero XVIII Uranus 16568000 -174441600 152. 0.44 Holman 1999
+Proteus VIII Neptune 118000 96768 0.00 0.00 Voyager2 1989
+Puck XV Uranus 86000 65664 0.31 0.00 Voyager2 1985
+Rhea V Saturn 527000 390528 0.35 0.00 Cassini 1672
+Rosalind XIII Uranus 70000 48384 0.28 0.00 Voyager2 1986
+Saturn VI Sun 1429400000 929620800 2.49 0.06 - -
+Setebos XIX Uranus 17681000 -193449600 158. 0.57 Kavelaars 1999
+Sinope IX Jupiter 23700000 -65491200 153.00 0.28 Nicholson 1914
+Stephano XX Uranus 7948000 -58233600 143. 0.24 Gladman 1999
+Sun - - - - - - - -
+Sycorax XVII Uranus 12213000 -111369600 153. 0.51 Nicholson 1997
+Taygete XX Jupiter 23312000 ? ? ? Sheppard 2000
+Telesto XIII Saturn 295000 163296 0.00 0.00 Smith 1980
+Tethys III Saturn 295000 163296 1.09 0.00 Cassini 1684
+Thalassa IV Neptune 50000 26784 4.50 0.00 Voyager2 1989
+Thebe XIV Jupiter 222000 57888 0.80 0.02 Synnott 1979
+Themisto XVIII Jupiter 7507000 ? ? ? Sheppard 2000
+Titan VI Saturn 1222000 1378080 0.33 0.03 Huygens 1655
+Titania III Uranus 436000 752544 0.00 0.00 Herschel 1787
+Trinculo XXI Uranus 8578000 -65577600 167.0 0.208 Gladman 2001
+Triton I Neptune 355000 -508032 157.00 0.00 Lassell 1846
+Umbriel II Uranus 266000 357696 0.00 0.00 Lassell 1851
+Uranus VII Sun 2870990000 2651184000 0.77 0.05 Herschel 1781
+Venus II Sun 108200000 19414080 3.39 0.01 - -
+

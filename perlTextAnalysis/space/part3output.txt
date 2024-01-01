@@ -1,0 +1,25 @@
+Input Text: 
+
+1. Name of planet or moon [Adrastea]
+2. Number of moon or planet (roman numerals) [XV]
+3. Name of the object around which the satellite orbits [Jupiter]
+4. Orbital radius (semimajor axis) in kilometers [129000]
+5. Orbital period in days [0.30]
+6. Orbital inclination in degrees [0.00]
+7. Orbital eccentricity [0.00]
+8. Discoverer [Jewitt]
+9. Year of discovery [1979]
+
+
+Output text: 
+
+
+one. Name of planet or moon [Adrastea]
+two. Number of moon or planet (roman numerals) [XV]
+three. Name of the object around which the satellite orbits [Jupiter]
+four. Orbital radius (semimajor axis) in kilometers [onetwoninezerozerozero]
+five. Orbital period in days [zero.threezero]
+six. Orbital inclination in degrees [zero.zerozero]
+seven. Orbital eccentricity [zero.zerozero]
+eight. Discoverer [Jewitt]
+nine. Year of discovery [oneninesevennine]
